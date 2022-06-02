@@ -1,4 +1,4 @@
-10 ⭐ & 5 🍴 for the next update.
+10 ⭐ & 5 🍴 for the next update. Also, feel free to create a issue but, please check and make sure it isn't a duplicate.
 
 Optimizing this code at 15 followers!
 
