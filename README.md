@@ -14,5 +14,5 @@ token = solvermodule.bypass(sitekey, host)
 ```
 
 # Before Running
-Make sure you have Python3 installed, httpx and requests. Please, also note you need to add a accessabillity cookie; scroll through the code or use CTRL+F in order to find the line where it defines said cookie.
+Make sure you have Python3 installed, httpx and requests. Please, also note you need to add a accessibility cookie; scroll through the code or use CTRL+F in order to find the line where it defines said cookie.
 You'll have to change the cookie every ~24h, as it expires every day.
