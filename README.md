@@ -1,4 +1,9 @@
-⭐ & 🍴 for updates
+10 ⭐ & 5 🍴 for the next update.
+
+Optimizing this code at 15 followers!
+
+Uploading to pypi and making a proper package at 30 followers!
+
 # hCaptcha-Solver
 A quick hCaptcha solver, free of trojans. **I'm pretty sure h0nde originially made this, all credits to the creators**
 
